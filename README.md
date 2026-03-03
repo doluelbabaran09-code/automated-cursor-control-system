@@ -1,0 +1,14 @@
+# Hardware Input Automation (Activity 2)
+
+## Project Overview
+This project is a multi-threaded hardware automation tool designed for Minecraft. It uses a keyboard listener to toggle a mouse-clicking background process.
+
+## Features
+- **Multi-threaded Execution:** Uses the `threading` library to prevent UI/Input lag.
+- **Hardware Interruption:** Uses `pynput` to monitor for the 'y' key toggle.
+- **Descriptive Naming:** Refactored to meet professional coding standards (No single-letter variables).
+
+## Technical Specifications
+- **Toggle Key:** 'y'
+- **Action:** Mouse Button (Right/Left)
+- **Interval:** 0.2 seconds (5 CPS)
