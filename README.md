@@ -1,4 +1,4 @@
-# Hardware Input Automation (Activity 2)
+
 
 ## Project Overview
 This project is a multi-threaded hardware automation tool. It uses a keyboard listener to toggle a mouse-clicking background process.
